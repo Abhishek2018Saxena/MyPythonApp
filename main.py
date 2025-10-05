@@ -1,3 +1,3 @@
 def greet():
-  print("Hellp! Welcome to my Github project ")
+  print("Hello! Welcome to my Github project ")
 greet()
